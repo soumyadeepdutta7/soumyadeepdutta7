@@ -7,13 +7,11 @@
 
 ## 🚀 Skills
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frontend Frameworks:** React, Angular, Vue.js
+- **Languages:** HTML, CSS, JavaScript, Java
+- **Frontend Frameworks:** React, Frappe
 - **Styling:** Sass, LESS, CSS-in-JS
-- **Tools:** Git, Webpack, npm, Yarn
-- **Responsive Design:** Bootstrap, Flexbox, Grid
-
-- 
+- **Tools:** Git, Webpack, npm, Yarn, Wix Website builder , Typeforms
+- **Responsive Design:** Bootstrap, Flexbox, Grid, Tailwind
 
 <!---
 soumyadeepdutta7/soumyadeepdutta7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
