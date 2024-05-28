@@ -1,26 +1,34 @@
-# Hi there! 👋 I'm Soumyadeep Dutta
+<h1 align="center">Hi there! 👋 I'm Soumyadeep Dutta</h1>
 
-I'm a passionate fullstack developer dedicated to crafting web applications that offer exceptional user experiences.
+<p align="center">A passionate frontend developer dedicated to crafting web applications that offer exceptional user experiences.</p>
 
-🔭 **Currently working on:** Enhancing my portfolio with exciting frontend projects.
+<p align="center">
+  <a href="#-about-me">About Me</a> •
+  <a href="#-current-projects">Current Projects</a> •
+  <a href="#-skills">Skills</a> •
+  <a href="#-contact-me">Contact Me</a>
+</p>
 
-🌱 **Currently learning:** Exploring the MERN stack to broaden my full-stack development skills.
+---
 
-💬 **Ask me about:** Anything related to web development or frontend technologies!
+## 📝 About Me
 
-📫 **How to reach me:** Feel free to shoot me an email at soumyadeepdutta.sd@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/soumyadeep-dutta-b142581a1/).
+I love building intuitive and visually appealing web applications that make a positive impact on users. My journey in web development started with a curiosity to explore the digital world and has since evolved into a passion for creating seamless online experiences.
 
-⚡ **Fun fact:** Did you know that the term "Responsive Web Design" was coined by Ethan Marcotte in his groundbreaking article published in May 2010? Responsive web design revolutionized the way we approach building websites by ensuring that web pages adapt gracefully to various screen sizes and devices.
+## 💼 Current Projects
+
+- **[Project 1](https://github.com/Kranti00/Betwa-Interface-015)**: Short description of the project.
+- **[Project 2](https://github.com/adityaks-lts/Code-Kalyaan-2345)**: Short description of the project.
 
 ## 🚀 Skills
 
 - **Languages:** HTML, CSS, JavaScript, Java
 - **Frontend Frameworks:** React, Frappe
 - **Styling:** Sass, LESS, CSS-in-JS
-- **Tools:** Git, Webpack, npm, Yarn, Wix Website builder , Typeforms
+- **Tools:** Git, Webpack, npm, Yarn, Wix Website Builder, Typeforms
 - **Responsive Design:** Bootstrap, Flexbox, Grid, Tailwind
 
-<!---
-soumyadeepdutta7/soumyadeepdutta7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Contact Me
+
+Feel free to reach out to me via [email](mailto:soumyadeepdutta.sd@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/soumyadeep-dutta-b142581a1/). I'm always open to new opportunities and collaborations!
+
