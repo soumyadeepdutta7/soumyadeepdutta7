@@ -1,9 +1,16 @@
-- 👋 Hello, I’m @soumyadeepdutta7, a passionate frontend developer with a love for creating web applications that deliver a great user experience.
-- 🔭 I’m currently working on [Frontend Projects]...
-- 🌱 I’m currently learning [MERN-Stack]...
-- 💬 Ask me about [Web Development]...
-- 📫 How to reach me: [soumyadeepdutta.sd@gmail.com] or [https://www.linkedin.com/in/soumyadeep-dutta-b142581a1/]...
-- ⚡ Fun fact: [Did you know that the term "Responsive Web Design" was coined by Ethan Marcotte in his groundbreaking article published in May 2010? Responsive web design revolutionized the way we approach building websites by ensuring that web pages adapt gracefully to various screen sizes and devices.]...
+# Hi there! 👋 I'm Soumyadeep Dutta
+
+I'm a passionate fullstack developer dedicated to crafting web applications that offer exceptional user experiences.
+
+🔭 **Currently working on:** Enhancing my portfolio with exciting frontend projects.
+
+🌱 **Currently learning:** Exploring the MERN stack to broaden my full-stack development skills.
+
+💬 **Ask me about:** Anything related to web development or frontend technologies!
+
+📫 **How to reach me:** Feel free to shoot me an email at soumyadeepdutta.sd@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/soumyadeep-dutta-b142581a1/).
+
+⚡ **Fun fact:** Did you know that the term "Responsive Web Design" was coined by Ethan Marcotte in his groundbreaking article published in May 2010? Responsive web design revolutionized the way we approach building websites by ensuring that web pages adapt gracefully to various screen sizes and devices.
 
 ## 🚀 Skills
 
