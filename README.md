@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Soumyadeep Dutta</h1>
 
-<p align="center">A passionate frontend developer dedicated to crafting web applications that offer exceptional user experiences.</p>
+<p align="center">A passionate fullstack developer dedicated to crafting web applications that offer exceptional user experiences.</p>
 
 <p align="center">
   <a href="#-about-me">About Me</a> •
