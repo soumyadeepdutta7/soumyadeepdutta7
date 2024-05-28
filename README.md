@@ -17,8 +17,8 @@ I love building intuitive and visually appealing web applications that make a po
 
 ## 💼 Current Projects
 
-- **[Project 1](https://github.com/Kranti00/Betwa-Interface-015)**: Short description of the project.
-- **[Project 2](https://github.com/adityaks-lts/Code-Kalyaan-2345)**: Short description of the project.
+- **[Project 1](https://github.com/Kranti00/Betwa-Interface-015)**: Crafted a functional Zepto clone utilizing HTML, CSS, and JavaScript, complemented by a JSON server for data management. This project replicates the essence of Zepto's interface, providing users with a familiar browsing experience while demonstrating proficiency in front-end development and server-side integration.
+- **[Project 2](https://github.com/adityaks-lts/Code-Kalyaan-2345)**: Designed and developed a responsive e-commerce platform for Lenovo using HTML, CSS, and Bootstrap, ensuring a seamless shopping experience for users. Implemented modern design principles to showcase Lenovo products effectively and optimize user engagement.
 
 ## 🚀 Skills
 
