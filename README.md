@@ -76,14 +76,17 @@ Feel free to reach out to me via [email](mailto:soumyadeepdutta.sd@gmail.com) or
 </p>
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="For the badge">
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="For the badge">
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/l2QEfVTjUpkfjdmsM/giphy.gif" alt="Animated GIF 1" width="50%">
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/MCfhrrNN1goH6/giphy.gif" alt="Animated GIF 2" width="50%">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/PtGJd58UNwm3q/giphy.gif" alt="Animated GIF 3" width="50%">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Animated GIF 4" width="50%">
 </p>
