@@ -66,3 +66,16 @@ Feel free to reach out to me via [email](mailto:soumyadeepdutta.sd@gmail.com) or
   <img src="https://komarev.com/ghpvc/?username=soumyadeepdutta7&style=flat-square&color=blue" alt="Profile views">
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/soumyadeep-dutta-b142581a1">
+    <img src="https://img.shields.io/badge/LinkedIn-Soumyadeep%20Dutta-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:soumyadeepdutta.sd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-soumyadeepdutta.sd@gmail.com-blue?style=flat&logo=gmail" alt="Email Badge">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="For the badge">
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="For the badge">
+</p>
