@@ -75,7 +75,7 @@ Feel free to reach out to me via [email](mailto:soumyadeepdutta.sd@gmail.com) or
   </a>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPqEz4vS14p1TQc/giphy.gif" alt="Animated GIF 7" width="50%">
+  <img src="https://media.giphy.com/media/l41YxXmfKKtZTLYgw/giphy.gif" alt="Animated GIF 8" width="50%">
 </p>
 
 
