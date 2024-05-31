@@ -1,7 +1,11 @@
 <h1 align="center">Hi there! 👋 I'm Soumyadeep Dutta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Passionate+about+creating+great+user+experiences" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Passionate+about+creating+great+user+experiences" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%">
 </p>
 
 <p align="center">A passionate fullstack developer dedicated to crafting web applications that offer exceptional user experiences.</p>
@@ -67,4 +71,13 @@ Feel free to reach out to me via [email](mailto:soumyadeepdutta.sd@gmail.com) or
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile views">
+</p>
+
+<p align="center">
+  <img src="https://github.com/your-username/your-username/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="For the badge">
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="For the badge">
 </p>
