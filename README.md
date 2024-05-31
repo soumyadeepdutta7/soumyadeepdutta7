@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Soumyadeep Dutta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Passionate+about+creating+great+user+experiences" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Passionate+about+creating+great+user+experiences" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -39,29 +39,22 @@ I love building intuitive and visually appealing web applications that make a po
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=soumyadeepdutta7&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyadeepdutta7&show_icons=true&theme=dracula" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepdutta7&theme=dracula" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeepdutta7&layout=compact&theme=dracula" alt="Top Languages">
 </p>
-
-## 🌱 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your latest post title](Your latest post link)
-- [Your second latest post title](Your second latest post link)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Me
 
@@ -70,11 +63,11 @@ Feel free to reach out to me via [email](mailto:soumyadeepdutta.sd@gmail.com) or
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=soumyadeepdutta7&style=flat-square&color=blue" alt="Profile views">
 </p>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/soumyadeepdutta/soumyadeepdutta/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <p align="center">
