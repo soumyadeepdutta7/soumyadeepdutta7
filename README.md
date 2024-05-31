@@ -75,8 +75,9 @@ Feel free to reach out to me via [email](mailto:soumyadeepdutta.sd@gmail.com) or
   </a>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" alt="Happy Coding" width="50%">
+  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" alt="Happy Coding" width="50%">
 </p>
+
 
 
 
