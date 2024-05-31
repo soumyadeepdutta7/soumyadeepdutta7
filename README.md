@@ -75,3 +75,11 @@ Feel free to reach out to me via [email](mailto:soumyadeepdutta.sd@gmail.com) or
   </a>
 </p>
 
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="For the badge">
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="For the badge">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumyadeepdutta/soumyadeepdutta/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
