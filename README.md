@@ -74,11 +74,6 @@ Feel free to reach out to me via [email](mailto:soumyadeepdutta.sd@gmail.com) or
     <img src="https://img.shields.io/badge/Email-soumyadeepdutta.sd@gmail.com-blue?style=flat&logo=gmail" alt="Email Badge">
   </a>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKGA7Q7bVQcSR3i/giphy.gif" alt="Animated GIF 3" width="50%">
-</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Animated GIF 4" width="50%">
 </p>
