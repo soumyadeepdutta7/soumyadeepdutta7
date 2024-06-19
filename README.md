@@ -30,10 +30,10 @@ I love building intuitive and visually appealing web applications that make a po
 
 ## 🚀 Skills
 
-- **Languages:** HTML, CSS, JavaScript, Java
+- **Languages:** HTML, CSS, JavaScript, Typescript , Java 
 - **Frontend Frameworks:** React, Frappe
-- **Styling:** Sass, LESS, CSS-in-JS
-- **Tools:** Git, Webpack, npm, Yarn, Wix Website Builder, Typeforms
+- **Styling:** Sass, LESS, CSS-in-JS, Chakra UI , Bootstrap , Tailwind
+- **Tools:** Git, Webpack, npm, Yarn, Wix Website Builder, Typeforms, CRM 
 - **Responsive Design:** Bootstrap, Flexbox, Grid, Tailwind
 
 ## 🏆 GitHub Trophies
