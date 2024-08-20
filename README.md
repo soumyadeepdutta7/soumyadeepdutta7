@@ -22,6 +22,7 @@
 ## 📝 About Me
 
 I love building intuitive and visually appealing web applications that make a positive impact on users. My journey in web development started with a curiosity to explore the digital world and has since evolved into a passion for creating seamless online experiences.
+Check out the live version of my portfolio: [Portfolio Website](https://soumyadeep-sd-portfolio.netlify.app/)
 
 ## 💼 Current Projects
 
