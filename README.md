@@ -32,7 +32,7 @@ Check out the live version of my portfolio: [Portfolio Website](https://soumyade
 ## 🚀 Skills
 
 - **Languages:** HTML, CSS, JavaScript, Typescript , Java 
-- **Frontend Frameworks:** React, Frappe
+- **Frontend Frameworks:** React, Frappe, NextJS
 - **Styling:** Sass, LESS, CSS-in-JS, Chakra UI , Bootstrap , Tailwind
 - **Tools:** Git, Webpack, npm, Yarn, Wix Website Builder, Typeforms, CRM 
 - **Responsive Design:** Bootstrap, Flexbox, Grid, Tailwind
